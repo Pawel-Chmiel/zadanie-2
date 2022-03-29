@@ -1,0 +1,25 @@
+html {
+    line-height: 1.25; 
+    -webkit-text-size-adjust: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+button,
+input { 
+    overflow: visible;
+}
+
+button,
+    [type='button'],
+    [type='reset'],
+    [type='submit'] {
+    -webkit-appearance: button;
+}
+a{
+    text-decoration: none;
+}
+
